@@ -1,3 +1,10 @@
+# Tech Blogs App
+
+- This project provides insightful and up-to-date information about the latest developments in Technology using React.js and TailwindCss.
+- Implemented Axios for streamlined API requests, enriching a tech blog project with dynamic content, and enhancing user engagement.
+- Implemented a key feature that allows users to search a blog by tags, categories, and pagination, providing a way to browse through large amounts of content efficiently.
+![Screenshot (97)](https://github.com/Arisha110/Tech-Blogs/assets/96740259/75368b4d-5f55-4572-8f68-caf172582247)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
