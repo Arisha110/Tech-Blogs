@@ -3,6 +3,7 @@
 - This project provides insightful and up-to-date information about the latest developments in Technology using React.js and TailwindCss.
 - Implemented Axios for streamlined API requests, enriching a tech blog project with dynamic content, and enhancing user engagement.
 - Implemented a key feature that allows users to search a blog by tags, categories, and pagination, providing a way to browse through large amounts of content efficiently.
+- Here's a production build: https://654a2e96d5c8611f5b13d903--symphonious-heliotrope-fde345.netlify.app/
   
 ![Screenshot (97)](https://github.com/Arisha110/Tech-Blogs/assets/96740259/b678b538-4257-4cfa-8c79-c7fd2a59dc52)
 
